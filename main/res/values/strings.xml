@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SHOPURSE</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="don_t_missed_anyhting">Do not Missed Anyhting!</string>
+    <string name="great_to_see_you_nplease_sign_in" >Great to See You, \nPlease Sign In</string>
+    <string name="log_in">LOG IN</string>
+    <string name="insert_username">Insert Username</string>
+    <string name="insert_password">Insert Password</string>
+    <string name="incorrect_password">Incorrect Password !</string>
+    <string name="are_you_new_do_sign_up">Are you new? Do Sign Up</string>
+</resources>
